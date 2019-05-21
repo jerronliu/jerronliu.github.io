@@ -1,7 +1,8 @@
 # Site settings
 title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
+SEOTitle: 军荣的博客 | 桃源 Blog
+#header-img: img/post-bg-desk.jpg
+header-img: https://www.pixiv.net/member_illust.php?mode=medium&illust_id=66966010
 email: qiubaiying@gmail.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
