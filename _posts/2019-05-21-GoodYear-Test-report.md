@@ -4,7 +4,7 @@ title:      GoodYear Test Report
 subtitle:   First Post on Github Blog
 date:       2019-5-21
 author:     Jerron
-header-img: img/post-bg-blue-girl.png
+header-img: img/post-bg-blue-lady.png
 catalog: true
 tags:
     - 生活
@@ -15,8 +15,8 @@ From 2019-05-04 To Now
 Goodyear 安装调试 环形胎面硫化机项目
 ##
 ## 2019年5月22日
-今天Hill Liu arrived.
-偶然间发现了新大陆, 就尝试一下吧!
+Hill Liu arrived yesterday.
+
 
 
 
@@ -46,3 +46,5 @@ Goodyear 安装调试 环形胎面硫化机项目
 ### 2019-5-22
 ### Today Plan
 1) Complete the Chapter 8.
+2) Finish the Automated Room Temperature Control System Technical Spec Sheet.
+3)
