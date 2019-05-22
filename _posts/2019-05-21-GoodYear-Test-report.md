@@ -10,10 +10,39 @@ tags:
     - 生活
     - 调试
 ---
-# 固特异纪实
+# Daily Report
 From 2019-05-04 To Now
 Goodyear 安装调试 环形胎面硫化机项目
-## Daily Report
-### 2019年5月22日
+##
+## 2019年5月22日
 今天Hill Liu arrived.
 偶然间发现了新大陆, 就尝试一下吧!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### 2019-5-22
+### Today Plan
+1) Complete the Chapter 8.
