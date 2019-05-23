@@ -47,4 +47,4 @@ Hill Liu arrived yesterday.
 ### Today Plan
 1) Complete the Chapter 8.
 2) Finish the Automated Room Temperature Control System Technical Spec Sheet.
-3)
+3) After Lunch sleep until 14:00, long time.
